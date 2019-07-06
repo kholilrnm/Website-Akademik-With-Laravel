@@ -1,6 +1,3 @@
-# belajar_laravel
-Bismillah, this is website project with master laravel based
-
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
@@ -10,3 +7,5 @@ Bismillah, this is website project with master laravel based
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+# belajar_laravel
+Bismillah, this is website project with master laravel based
