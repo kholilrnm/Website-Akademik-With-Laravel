@@ -22,7 +22,7 @@
   <div class="login"> 
     <h1>Welcome Admin</h1>
 
-    <form class="form" method="post" action="/belajar_laravel2/beranda"><br>
+    <form class="form" method="post" action="/belajar_laravel/beranda"><br>
       {{ csrf_field() }}
 
       <p class="field">
