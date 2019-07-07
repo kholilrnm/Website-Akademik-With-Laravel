@@ -21,6 +21,6 @@ Route::get('/loginBosku', function()
 	return view('login');
 });
 
-Route::post('/beranda', 'loginController@login');
+Route::post('/beranda', 'loginControllerAdmin@loginAdmin');
 
 
