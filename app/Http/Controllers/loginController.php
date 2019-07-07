@@ -7,9 +7,10 @@ use Illuminate\Foundation\Bus\DispatchesJobs;
 use Illuminate\Routing\Controller as BaseController;
 use Illuminate\Foundation\Validation\ValidatesRequests;
 use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
-class loginController extends BaseController
+
+class loginControllerAdmin extends BaseController
 {
-    public function login(Request $req)
+    public function loginAdmin(Request $req)
     {
     	$u_adm = $req->input('u_adm');
     	$p_adm = $req->input('p_adm');
