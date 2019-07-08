@@ -7,7 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-<span class="tag is-danger">Danger</span>
+<div class="field is-grouped is-grouped-multiline">
+  <div class="control">
+    <div class="tags has-addons">
+      <span class="tag is-dark">npm</span>
+      <span class="tag is-info">0.5.0</span>
+    </div>
+  </div>
+  
 # Belajar_Laravel
 Bismillah, this is website project with master laravel based
 
