@@ -7,6 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+<span class="label-name">Master</span>
 # Belajar_Laravel
 Bismillah, this is website project with master laravel based
 
