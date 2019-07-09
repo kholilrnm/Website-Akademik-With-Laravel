@@ -16,13 +16,13 @@ Route::get('/', function()
     return view('welcome');
 });
 
-Route::get('/Adm_login', function()
+Route::get('/adm_Login', function()
 {
 	return view('login');
 });
 
-Route::post('/beranda', 'loginControllerAdmin@loginAdmin');
+Route::post('/adm_Dashboard', 'loginControllerAdmin@loginAdmin');
 
-Route::post('/dashboard', '');
+Route::post('/adm_Dashboard', '');
 
 
