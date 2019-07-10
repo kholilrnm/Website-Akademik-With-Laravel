@@ -14,3 +14,5 @@ Bismillah, this is website project with master laravel based
 - versi beta v1.0
 - updated form login (85 %)
   - verification login (10 %)
+  
+- updated admin dashboard (5 %)
