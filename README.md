@@ -16,7 +16,7 @@ Bismillah, this is website project with master laravel based
   - verification login (10 %)
   
 - updated admin dashboard (5 %)
-  - layouts (2% )
-  - adminDasboard (5% )
+  - layouts header(2% )
+  - layouts sidebar (5% )
   - plugins (0 %)
    
