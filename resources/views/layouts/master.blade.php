@@ -118,5 +118,14 @@
                   </li>
                   <!-- end task item -->
 
+                </ul>
+              </li>
+              <li class="footer">
+                <a href="#">View all tasks</a>
+              </li>
+            </ul>
+          </li>
+          <!-- User Account: style can be found in dropdown.less -->
+
 
 </html>
