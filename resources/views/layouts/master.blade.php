@@ -133,5 +133,16 @@
               <span class="hidden-xs">Alexander Pierce</span>
             </a>
 
+             <!-- User image -->
+              <li class="user-header">
+                <img src="public/admin/img/user2-160x160.jpg" class="img-circle" alt="User Image">
+
+                <p>
+                  Alexander Pierce - Web Developer
+                  <small>Member since Nov. 2012</small>
+                </p>
+              </li>
+ 
+
 
 </html>
