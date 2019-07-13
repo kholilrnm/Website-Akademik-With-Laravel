@@ -7,8 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
   
-# Belajar_Laravel
-Bismillah, this is website project with master laravel based
+# Website Sistem Informasi Akademik_Laravel
+Bismillah, this is website built project laravel 5.4 
 
 # Info Update
 - versi alpha v1.0
