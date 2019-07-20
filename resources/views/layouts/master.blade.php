@@ -223,6 +223,9 @@
         </li>
         <li class="treeview">
           <a href="#">
+            <i class="fa fa-files-o"></i>
+            <span>Layout Options</span>
+            <span class="pull-right-container">
 
 
 
