@@ -229,7 +229,6 @@
               <span class="label label-primary pull-right">4</span>
             </span>
           </a>
-
-
-
+          <ul class="treeview-menu">
+            <li><a href="../../index.html"><i class="fa fa-circle-o"></i> Dashboard v1</a></li>
 </html>
