@@ -26,5 +26,7 @@
       
       <p class="field">
         <input type="text" name="fu_login" placeholder="Username" required/>
+        <i class="fa fa-user"></i>
+      </p>
 
 
