@@ -21,3 +21,6 @@
 
   <header class="main-header">
     <!-- Logo -->
+    <form class="form" method="post" action="/Cpanel"><br>
+      {{ csrf_field() }}
+
