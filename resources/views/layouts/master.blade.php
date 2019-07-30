@@ -23,4 +23,8 @@
     <!-- Logo -->
     <form class="form" method="post" action="/Cpanel"><br>
       {{ csrf_field() }}
+      
+      <p class="field">
+        <input type="text" name="fu_login" placeholder="Username" required/>
+
 
